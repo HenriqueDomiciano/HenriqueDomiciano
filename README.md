@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @HenriqueDomiciano
+- 👀 I’m interested in Python, Machine Learning, Statistics and any other challenges.  
+- 🌱 I’m currently learning C++, Java, C and VHDL  
+- 💞️ I’m looking to collaborate on Python and Machine Learning
+- Kaggle : https://www.kaggle.com/henriqueosinski 
+- Codewars : https://www.codewars.com/users/hdoarkade 
+- ![Alt text](https://www.codewars.com/users/hdoarkade/badges/small)
+- Project Euler : Ranking 106 at Brazil 
+- ![Alt text](https://projecteuler.net/profile/henrique08061999.png)
+- Reach me at my email : henriquedomiciano@yahoo.com 
