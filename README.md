@@ -7,4 +7,3 @@
 - ![Alt text](https://www.codewars.com/users/hdoarkade/badges/small)
 - Project Euler : Ranking 96 at Brazil (Top 100 Uhulll)
 - ![Alt text](https://projecteuler.net/profile/henrique08061999.png)
-- Reach me at my email : henriquedomiciano@yahoo.com 
