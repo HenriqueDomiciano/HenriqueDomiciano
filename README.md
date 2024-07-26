@@ -7,3 +7,5 @@
 - ![Alt text](https://www.codewars.com/users/hdoarkade/badges/small)
 - Project Euler : Ranking 96 at Brazil (Top 100 Uhulll)
 - ![Alt text](https://projecteuler.net/profile/henrique08061999.png)
+
+[![Henrique Domiciano GitHub stats](https://github-readme-stats.vercel.app/api?username=HenriqueDomiciano)](https://github.com/anuraghazra/github-readme-stats)
