@@ -1,7 +1,7 @@
 # 👋 Hi, I’m @HenriqueDomiciano
 - 👀 I’m interested in Python, C, Embedded and Desktop/Backend Development 
 - 🌱 I’m currently learning C++, Rust, and want to learn Go  
-- 💞️ I’m looking to collaborate on Python and Machine
+- 💞️ I’m looking to collaborate on Python, Rust and C projects. 
 - Codewars : Nice for learning languages. 
 - ![Alt text](https://www.codewars.com/users/hdoarkade/badges/small)
 - Project Euler : Great sit for mathematic challenges 
