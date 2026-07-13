@@ -1,18 +1,53 @@
-# 👋 Hi, I’m @HenriqueDomiciano
-- 👀 I’m interested in Python, C, Embedded and Desktop/Backend Development 
-- 🌱 I’m currently learning C++, Rust, and want to learn Go  
-- 💞️ I’m looking to collaborate on Python, Rust and C projects. 
-- Codewars : Nice for learning languages. 
-- ![Alt text](https://www.codewars.com/users/hdoarkade/badges/small)
-- Project Euler : Great sit for mathematic challenges 
-- ![Alt text](https://projecteuler.net/profile/henrique08061999.png)
+# 👋 Hi, I'm @HenriqueDomiciano
 
+**Electrical Engineer & Firmware Engineer** with specialized experience in **Firmware QA, Test Automation, and Embedded Systems Development**. I bridge the gap between robust low-level implementation and rigorous software quality assurance in industrial and commercial applications.
 
-### My day to day tools 
-<img src=https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/python.svg width=50  heigth= 50 /> <img src=https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/social%20icons/linux.svg width=50 heigth=50> <img src=https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/programming%20languages/c.svg width=50 heigth=50> <img src=https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/azuredevops/azuredevops-original.svg width=50 heigth=50> <img src=https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/neovim/neovim-original.svg width=50 heigth=50> 
+---
 
-### Already worked with 
-<img src=https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/mongodb/mongodb-original.svg width=50 heigth=50> <img src=https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/postgresql/postgresql-original.svg width=50 heigth=50> <img src=https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/nim/nim-original.svg width=50 heigth=50> <img src=https://github.com/rust-lang/rust-artwork/blob/master/logo/rust-logo-64x64.png width=50 heigth=50> 
-### The Languages I Have Been Working on. 
+### 💻 Professional Skillset & Tech Stack
 
-[![Henrique GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueDomiciano&exclude_repo=organizar_diretorios)](https://github.com/HenriqueDomiciano/github-readme-stats)
+| Category | Technologies & Skills |
+| :--- | :--- |
+| **Languages** | `C` • `Python` • `Rust` • `C++` • `Nim` |
+| **RTOS & Frameworks** | **FreeRTOS** • **ESP-IDF** • **Embassy (Async Rust)** |
+| **Microcontrollers** | **ESP32-C3** • **ESP32-S3** • **Nordic nRF52840** |
+| **Protocols & Wireless** | **BLE (Bluetooth Low Energy)** • **CAN / TWAI** • `UART` • `SPI` • `I2C` |
+| **Databases & DevOps** | `PostgreSQL` • `MongoDB` • **Azure DevOps** • `CI/CD Pipelines` |
+
+---
+
+### 🛠️ Hardware & Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="Espressif" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim" />
+  <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" alt="Azure DevOps" />
+</p>
+---
+
+### 🎯 Professional Focus & Targets
+
+* 🚀 **Firmware Testing & Automation:** Implementing unit tests, integration tests, and automated validation frameworks to scale firmware reliability.
+* 🔋 **Ultra-Low Power & Wireless:** Developing wireless infrastructure utilizing Bluetooth Low Energy (BLE) and robust wired industrial networking via CAN bus.
+* 🤝 **Collaboration:** Looking to contribute to open-source or commercial projects involving Python-driven test benches, embedded C/C++, and Rust.
+
+---
+
+### 🧠 Continuous Learning & Problem Solving
+
+I regularly challenge myself with complex algorithmic and logic problems to keep my software engineering skills sharp:
+
+* **Codewars** : Language mastery and technical coding proficiency.
+  <br>[![Codewars](https://www.codewars.com/users/hdoarkade/badges/small)](https://www.codewars.com/users/hdoarkade)
+* **Project Euler** : Advanced mathematical logic and algorithmic challenges.
+  <br>![Project Euler](https://projecteuler.net/profile/henrique08061999.png)
+
+---
+
+### 📊 Most Used Languages
+
+[![Henrique GitHub stats](https://github-stats-extended.vercel.app/api/top-langs/?username=HenriqueDomiciano&exclude_repo=organizar_diretorios)](https://github.com/stats-organization/github-stats-extended)
